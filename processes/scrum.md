@@ -60,6 +60,42 @@ An Increment is a concrete stepping stone toward the Product Goal. Each Incremen
 
 The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product. It provides a shared understanding of what it means for work to be complete, ensuring transparency and quality. The Developers can iterate on and refine the Definition of Done at any time.
 
+#### Example
+
+1. Code has been reviewed by at least one other developer.
+2. Unit tests are written for new functions.
+3. The Product Owner has been informed of the completion.
+4. The story is marked as Done on the board.
+
+**Issue 1 - No definition of test coverage threshold**
+
+The criterion "unit tests are written for new functions" is too vague. It doesn't
+specify how much coverage is required, meaning a single trivial test could satisfy
+this criterion while leaving critical logic untested.
+
+**Issue 2 - No integration or end-to-end testing requirement**
+
+The DoD only mentions unit tests. There is no requirement to verify the story works
+correctly within the broader system, meaning integration bugs could slip through
+undetected.
+
+**Issue 3 - No requirement for working, deployable software**
+
+There is no criterion that the software actually builds, runs, or is deployed to a
+test or staging environment. Code could be merged but broken in the broader codebase.
+
+**Issue 4 - Only one reviewer required**
+
+Requiring only one reviewer is a weak quality gate, particularly for complex or
+high-risk stories. It also doesn't specify the reviewer's seniority or familiarity
+with the codebase.
+
+**Issue 5 - Marking as Done on the board is not a quality criterion**
+
+Item 4 is purely administrative — it describes a workflow action, not a quality
+standard. A story being marked Done on a board does not mean it meets any
+meaningful quality bar.
+
 ### Velocity
 
 Velocity is an optional, but commonly used, metric in Scrum that measures the amount of work (e.g., story points) a Scrum Team can complete in a Sprint. It is primarily used for forecasting and planning future Sprints, not as a measure of productivity for individuals or to pressure teams.
@@ -73,3 +109,4 @@ Zombie Scrum refers to situations where teams mechanically go through the motion
 ### Dark Scrum
 
 Dark Scrum occurs when Scrum is misused as a tool to pressure or control development teams, often by stakeholders or management. This typically manifests as an excessive focus on increasing velocity, setting unrealistic Sprint Goals, or micro-managing the team's work, undermining the principles of self-management, sustainable pace, and quality that Scrum advocates.
+
