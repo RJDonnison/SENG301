@@ -1,12 +1,16 @@
 # SENG301 Notes
 
+## Patterns
+
+- [puml](puml.md)
+- [factories](patterns/factories.md)
+
 ## Object-Oriented Principles
 
 - [Composition](oo/composition.md)
 - [Encapsulation](oo/encapsulation.md)
 - [Inheritance](oo/inheritance.md)
 - [SOLID](oo/solid.md)
-- [puml](puml.md)
 
 ## Processes
 
