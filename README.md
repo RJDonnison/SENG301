@@ -17,6 +17,7 @@
 - [Agile](processes/agile.md)
 - [Kanban](processes/kanban.md)
 - [Scrum](processes/scrum.md)
+- [Scatter Gather](processes/scatter-gather.md)
 
 ## Ethics
 
@@ -47,4 +48,6 @@
 ## Code Reviews
 
 - [Code Review Guidelines](reviews/code-review.md)
+- [Situation-Behavior-Impact](reviews/sbi.md)
+- [STAR](reviews/star.md)
 - [Code Review Examples](reviews/examples.md)
