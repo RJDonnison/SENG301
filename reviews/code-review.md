@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To ensure the team's quality standards are upheld, facilitate knowledge sharing across the team, improve documentation, detect bugs and logic errors, identify security vulnerabilities, and provide mentoring opportunities for junior and senior developers alike.
+To ensure the team's quality standards are upheld, facilitate knowledge sharing across the team, improve documentation, detect bugs and logic errors, identify security vulnerabilities, and provide mentoring opportunities for junior and senior developers alike [examples](examples.md).
 
 ## Types
 

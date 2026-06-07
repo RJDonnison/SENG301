@@ -1,6 +1,6 @@
 # Biases
 
-Biases are common in software engineering and it is a developer's ethical responsibility to minimise the effects of these. Biases can creep into requirements gathering, design decisions, implementation, testing, and data collection, leading to systems that are unfair, discriminatory, or harmful. See [General Ethics](/ethics/general.md).
+Biases are common in software engineering and it is a developer's ethical responsibility to minimise the effects of these. Biases can creep into requirements gathering, design decisions, implementation, testing, and data collection, leading to systems that are unfair, discriminatory, or harmful. See [General Ethics](general.md).
 
 ## Implementation Bias
 

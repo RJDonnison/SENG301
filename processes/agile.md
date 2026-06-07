@@ -4,8 +4,8 @@ Agile is an iterative and incremental approach to software development and proje
 
 ## Types
 
-- [Scrum](/processes/scrum.md)
-- [Kanban](/processes/kanban.md)
+- [Scrum](scrum.md)
+- [Kanban](kanban.md)
 
 ## Manifesto
 

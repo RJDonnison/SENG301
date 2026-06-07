@@ -1,6 +1,6 @@
 # Ethics
 
-Software engineering ethics involve a developer's responsibility for the social effects of systems they create. Ethical considerations guide decision-making throughout the software lifecycle, from design and development to deployment and maintenance, ensuring that technology serves the public good, minimizes harm, and removes [biases](/ethics/biases.md)
+Software engineering ethics involve a developer's responsibility for the social effects of systems they create. Ethical considerations guide decision-making throughout the software lifecycle, from design and development to deployment and maintenance, ensuring that technology serves the public good, minimizes harm, and removes [biases](biases.md)
 
 ## Key Ethical Concerns
 
@@ -10,7 +10,7 @@ Software engineering ethics involve a developer's responsibility for the social 
 
 ## Ethics Code
 
-There are ethics codes determined by ethical [bodies](/ethics/bodies.md) such as the ACM and IEEE. These codes establish professional standards of conduct, covering principles like public interest, client and employer obligations, product quality, professional judgment, and professional development.
+There are ethics codes determined by ethical [bodies](bodies.md) such as the ACM and IEEE. These codes establish professional standards of conduct, covering principles like public interest, client and employer obligations, product quality, professional judgment, and professional development.
 
 ## LESCANT Model
 
