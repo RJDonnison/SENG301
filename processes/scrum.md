@@ -36,7 +36,7 @@ The Sprint Review is held at the end of the Sprint to inspect the Increment and 
 
 ### Sprint Retrospective
 
-The Sprint Retrospective is a final event of the Sprint, providing an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. The team discusses what went well, what could be improved, and what they will commit to changing in their processes, tools, and interactions to increase effectiveness.
+The Sprint Retrospective is a final event of the Sprint, providing an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. The team discusses what went well, what could be improved, and what they will commit to changing in their processes, tools, and interactions to increase effectiveness. Retrospectives can follow different [methods](retro.md).
 
 ## Artifacts
 
@@ -109,4 +109,3 @@ Zombie Scrum refers to situations where teams mechanically go through the motion
 ### Dark Scrum
 
 Dark Scrum occurs when Scrum is misused as a tool to pressure or control development teams, often by stakeholders or management. This typically manifests as an excessive focus on increasing velocity, setting unrealistic Sprint Goals, or micro-managing the team's work, undermining the principles of self-management, sustainable pace, and quality that Scrum advocates.
-
