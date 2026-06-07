@@ -6,6 +6,7 @@
 - [Encapsulation](oo/encapsulation.md)
 - [Inheritance](oo/inheritance.md)
 - [SOLID](oo/solid.md)
+- [puml](puml.md)
 
 ## Processes
 
